@@ -42,5 +42,5 @@
 
 
 ### **Practice Problems**
-
-
+* *Sum of Array Elements* -  [Practice here](https://practice.geeksforgeeks.org/problems/sum-of-array-elements2502/1/?category[]=Arrays&page=1&query=category[]Arrayspage1) | [Solution here](https://www.geeksforgeeks.org/program-find-sum-elements-given-array/)
+* ** -  [Practice here]() | [Solution here]()
