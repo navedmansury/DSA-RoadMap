@@ -12,7 +12,6 @@
 * *Decision Making in C / C++ (if..else)* -  [Learn from here](https://www.geeksforgeeks.org/decision-making-c-c-else-nested-else/?ref=lbp)
 * *Loops in C and C++* -  [Learn from here](https://www.geeksforgeeks.org/loops-in-c-and-cpp/?ref=lbp)
 * *Basic Input / Output in C++* -  [Learn from here](https://www.geeksforgeeks.org/basic-input-output-c/?ref=lbp)
-* ** -  [Learn from here]()
 
 ### **Operators**
 * *Operators in C / C++* -  [Learn from here](https://www.geeksforgeeks.org/operators-c-c/?ref=lbp)
