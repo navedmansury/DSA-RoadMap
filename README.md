@@ -21,7 +21,9 @@
 * *new and delete operators in C++ for dynamic memory (Do after arrays and pointers)* -  [Learn from here](https://www.geeksforgeeks.org/new-and-delete-operators-in-cpp-for-dynamic-memory/?ref=lbp)
 
 ### **Practice Problems**
-* *EVEN ODD* -  [Practice here](https://www.hackerearth.com/problem/algorithm/even-odd-3-f509373c/submissions/) [Solution here](https://www.hackerearth.com/submission/44823658/)
+* *EVEN ODD* -  [Practice here](https://www.hackerearth.com/problem/algorithm/even-odd-3-f509373c/submissions/) | [Solution here](https://www.hackerearth.com/submission/44823658/)
+* *Pattern Printing Problems and Solutions* -  [Practice here](https://www.programiz.com/c-programming/examples/pyramid-pattern) [Try it yourself then see the given code.]
+
 
 
 * *To determine if a particular item exists in the list (Iterative & Recursive)* -  [Learn from here](https://www.geeksforgeeks.org/search-an-element-in-a-linked-list-iterative-and-recursive/)
