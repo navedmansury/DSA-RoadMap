@@ -38,3 +38,9 @@
 
 ### **Strings**
 * *Strings in C* -  [Learn from here](https://www.geeksforgeeks.org/strings-in-c-2/)
+* *Functions in string.h Header File* -  [Learn from here](https://www.programiz.com/c-programming/library-function/string.h)
+
+
+### **Practice Problems**
+
+
