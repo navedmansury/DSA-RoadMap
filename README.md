@@ -44,7 +44,7 @@
 
 ### **Practice Problems**
 * *Sum of Array Elements* -  [Practice here](https://practice.geeksforgeeks.org/problems/sum-of-array-elements2502/1/?category[]=Arrays&page=1&query=category[]Arrayspage1) | [Solution here](https://www.geeksforgeeks.org/program-find-sum-elements-given-array/)
-* *Largest Element in Array* -  [Practice here](Largest Element in Array) | [Solution here](https://www.geeksforgeeks.org/c-program-find-largest-element-array/)
+* *Largest Element in Array* -  [Practice here](https://practice.geeksforgeeks.org/problems/largest-element-in-array/0) | [Solution here](https://www.geeksforgeeks.org/c-program-find-largest-element-array/)
 * *Palindrome Number* -  [Practice here](https://practice.geeksforgeeks.org/problems/palindrome0746/1) | [Solution here](https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/)
 * *Palindrome String* -  [Practice here](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1/?category[]=Strings&page=1&query=category[]Stringspage1) | [Solution here](https://www.geeksforgeeks.org/c-program-check-given-string-palindrome/)
 * ** -  [Practice here]() | [Solution here]()
