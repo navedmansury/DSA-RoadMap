@@ -47,6 +47,5 @@
 * *Largest Element in Array* -  [Practice here](https://practice.geeksforgeeks.org/problems/largest-element-in-array/0) | [Solution here](https://www.geeksforgeeks.org/c-program-find-largest-element-array/)
 * *Palindrome Number* -  [Practice here](https://practice.geeksforgeeks.org/problems/palindrome0746/1) | [Solution here](https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/)
 * *Palindrome String* -  [Practice here](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1/?category[]=Strings&page=1&query=category[]Stringspage1) | [Solution here](https://www.geeksforgeeks.org/c-program-check-given-string-palindrome/)
-* ** -  [Practice here]() | [Solution here]()
-* ** -  [Practice here]() | [Solution here]()
+* *Multiply Matrices* -  [Practice here](https://practice.geeksforgeeks.org/problems/multiply-matrices/1) | [Solution here](https://www.geeksforgeeks.org/c-program-multiply-two-matrices/)
 * ** -  [Practice here]() | [Solution here]()
