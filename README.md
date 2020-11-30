@@ -11,7 +11,14 @@
 * *C++ Programming Basics* -  [Learn from here](https://www.geeksforgeeks.org/c-programming-basics/?ref=lbp)
 * *Decision Making in C / C++ (if..else)* -  [Learn from here](https://www.geeksforgeeks.org/decision-making-c-c-else-nested-else/?ref=lbp)
 * *Loops in C and C++* -  [Learn from here](https://www.geeksforgeeks.org/loops-in-c-and-cpp/?ref=lbp)
+* *Basic Input / Output in C++* -  [Learn from here](https://www.geeksforgeeks.org/basic-input-output-c/?ref=lbp)
+* ** -  [Learn from here]()
 
+### **Operators**
+* *Operators in C / C++* -  [Learn from here](https://www.geeksforgeeks.org/operators-c-c/?ref=lbp)
+* *Unary operators in C/C++* -  [Learn from here](https://www.geeksforgeeks.org/unary-operators-cc/?ref=lbp)
+* *Pre-increment (or pre-decrement) in C++* -  [Learn from here](https://www.geeksforgeeks.org/g-fact-40/?ref=lbp)
+* *new and delete operators in C++ for dynamic memory (Do after arrays and pointers) * -  [Learn from here](https://www.geeksforgeeks.org/new-and-delete-operators-in-cpp-for-dynamic-memory/?ref=lbp)
 
 * *To determine if a particular item exists in the list (Iterative & Recursive)* -  [Learn from here](https://www.geeksforgeeks.org/search-an-element-in-a-linked-list-iterative-and-recursive/)
 * *To count the number of times as item occurs in the list (Iterative & Recursive)* -  [Practice here](https://practice.geeksforgeeks.org/problems/occurence-of-an-integer-in-a-linked-list/1) [Solution here](https://www.geeksforgeeks.org/write-a-function-that-counts-the-number-of-times-a-given-int-occurs-in-a-linked-list/)
