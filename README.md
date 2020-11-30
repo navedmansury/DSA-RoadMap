@@ -1,18 +1,18 @@
-# DSA-RoadMap
+# Beginner's-RoadMap
 <p align="center">
 <img alt="CodeChef MBM" src="images/codechef-mbm.png" height="600">
 </p>
 
 ## Prepared and maintained by [CODECHEF MBM Chapter].
 ## Contents
-### **Pointers Revision** - [Learn from here](https://www.youtube.com/playlist?list=PLhb7SOmGNUc4EBVjd7x5TiEyOKXt71whE)
-### **Array** - [Learn from here ](https://www.geeksforgeeks.org/array-data-structure/ )
-### **Complexity Analysis** - [Learn from here](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn)
-[Practice problems for warm up and complexity analysis](https://www.codechef.com/LRNDSA01)
-### **Linked Lists** - [Learn from here](https://www.youtube.com/playlist?list=PLCvBE7NDS5Bli-yIH6lD353r9zHxvazr1)
+### **Basics**
 
-* *Print the linked list* -  [Learn from here](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)
-* *Count the number of nodes in the linked list (Iterative & Recursive)* -  [Solve here](https://practice.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) [Solution here](https://www.geeksforgeeks.org/find-length-of-a-linked-list-iterative-and-recursive/) 
+* *Introduction to C++ Programming Language* -  [Learn from here](https://www.geeksforgeeks.org/introduction-to-c-programming-language/?ref=lbp)
+* *C++ Programming Basics* -  [Learn from here](https://www.geeksforgeeks.org/c-programming-basics/?ref=lbp)
+* *Decision Making in C / C++ (if..else)* -  [Learn from here](https://www.geeksforgeeks.org/decision-making-c-c-else-nested-else/?ref=lbp)
+* *Loops in C and C++* -  [Learn from here](https://www.geeksforgeeks.org/loops-in-c-and-cpp/?ref=lbp)
+
+
 * *To determine if a particular item exists in the list (Iterative & Recursive)* -  [Learn from here](https://www.geeksforgeeks.org/search-an-element-in-a-linked-list-iterative-and-recursive/)
 * *To count the number of times as item occurs in the list (Iterative & Recursive)* -  [Practice here](https://practice.geeksforgeeks.org/problems/occurence-of-an-integer-in-a-linked-list/1) [Solution here](https://www.geeksforgeeks.org/write-a-function-that-counts-the-number-of-times-a-given-int-occurs-in-a-linked-list/)
 * *To determine the average of the items in the list* - [Learn from here](https://www.geeksforgeeks.org/program-to-find-average-of-all-nodes-in-a-linked-list/#:~:text=Start%20traversing%20the%20linked%20list,node%20and%20Return%20the%20average.)
