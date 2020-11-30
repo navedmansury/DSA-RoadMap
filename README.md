@@ -20,13 +20,17 @@
 * *Pre-increment (or pre-decrement) in C++* -  [Learn from here](https://www.geeksforgeeks.org/g-fact-40/?ref=lbp)
 * *new and delete operators in C++ for dynamic memory (Do after arrays and pointers)* -  [Learn from here](https://www.geeksforgeeks.org/new-and-delete-operators-in-cpp-for-dynamic-memory/?ref=lbp)
 
-### **Practice Problems**
-* *EVEN ODD* -  [Practice here](https://www.hackerearth.com/problem/algorithm/even-odd-3-f509373c/submissions/) | [Solution here](https://www.hackerearth.com/submission/44823658/)
-* *Pattern Printing Problems and Solutions* -  [Practice here](https://www.programiz.com/c-programming/examples/pyramid-pattern) [Try it yourself then see the given code.]
-
 ### **Functions**
 * *Functions in C/C++* -  [Learn from here](https://www.geeksforgeeks.org/functions-in-c/?ref=lbp)
 * *Default Arguments in C++* -  [Learn from here](https://www.geeksforgeeks.org/default-arguments-c/?ref=lbp)
 * *Return from void functions in C++* -  [Learn from here](https://www.geeksforgeeks.org/return-void-functions-c/?ref=lbp)
+
+### **Practice Problems**
+* *EVEN ODD* -  [Practice here](https://www.hackerearth.com/problem/algorithm/even-odd-3-f509373c/submissions/) | [Solution here](https://www.hackerearth.com/submission/44823658/)
+* *Pattern Printing Problems and Solutions* -  [Practice here](https://www.programiz.com/c-programming/examples/pyramid-pattern) [Try it yourself then see the given code.]
+* *Program to count digits in an integer* -  [Solution here](https://www.geeksforgeeks.org/program-count-digits-integer-3-different-methods/) [Try it yourself then see the given code.]
+
+
+
 
 
