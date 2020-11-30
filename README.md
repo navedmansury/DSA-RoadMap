@@ -30,6 +30,7 @@
 * *Program to count digits in an integer* -  [Solution here](https://www.geeksforgeeks.org/program-count-digits-integer-3-different-methods/) [Try it yourself then see the given code.]
 * *Program to print the given digit in words* -  [Solution here](https://www.geeksforgeeks.org/program-to-print-the-given-digit-in-words/) [Try it yourself then see the given code.]
 
+
 ### **Array**
 * *Arrays in C/C++* -  [Learn from here](https://www.geeksforgeeks.org/arrays-in-c-cpp/?ref=lbp)
 * *How arrays are passed to functions in C/C++* -  [Learn from here](https://www.geeksforgeeks.org/how-arrays-are-passed-to-functions-in-cc/)
@@ -43,4 +44,9 @@
 
 ### **Practice Problems**
 * *Sum of Array Elements* -  [Practice here](https://practice.geeksforgeeks.org/problems/sum-of-array-elements2502/1/?category[]=Arrays&page=1&query=category[]Arrayspage1) | [Solution here](https://www.geeksforgeeks.org/program-find-sum-elements-given-array/)
+* *Largest Element in Array* -  [Practice here](Largest Element in Array) | [Solution here](https://www.geeksforgeeks.org/c-program-find-largest-element-array/)
+* *Palindrome Number* -  [Practice here](https://practice.geeksforgeeks.org/problems/palindrome0746/1) | [Solution here](https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/)
+* *Palindrome String* -  [Practice here](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1/?category[]=Strings&page=1&query=category[]Stringspage1) | [Solution here](https://www.geeksforgeeks.org/c-program-check-given-string-palindrome/)
+* ** -  [Practice here]() | [Solution here]()
+* ** -  [Practice here]() | [Solution here]()
 * ** -  [Practice here]() | [Solution here]()
