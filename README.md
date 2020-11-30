@@ -30,3 +30,11 @@
 * *Program to count digits in an integer* -  [Solution here](https://www.geeksforgeeks.org/program-count-digits-integer-3-different-methods/) [Try it yourself then see the given code.]
 * *Program to print the given digit in words* -  [Solution here](https://www.geeksforgeeks.org/program-to-print-the-given-digit-in-words/) [Try it yourself then see the given code.]
 
+### **Array**
+* *Arrays in C/C++* -  [Learn from here](https://www.geeksforgeeks.org/arrays-in-c-cpp/?ref=lbp)
+* *How arrays are passed to functions in C/C++* -  [Learn from here](https://www.geeksforgeeks.org/how-arrays-are-passed-to-functions-in-cc/)
+* *Multidimensional Arrays in C / C++* -  [Learn from here](https://www.geeksforgeeks.org/multidimensional-arrays-c-cpp/?ref=lbp)
+* *How to pass a 2D array as a parameter in C?* -  [Learn from here](https://www.geeksforgeeks.org/pass-2d-array-parameter-c/?ref=lbp)
+
+### **Strings**
+* *String Data Structure* -  [Learn from here](https://www.geeksforgeeks.org/string-data-structure/)
