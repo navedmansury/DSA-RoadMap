@@ -37,4 +37,4 @@
 * *How to pass a 2D array as a parameter in C?* -  [Learn from here](https://www.geeksforgeeks.org/pass-2d-array-parameter-c/?ref=lbp)
 
 ### **Strings**
-* *String Data Structure* -  [Learn from here](https://www.geeksforgeeks.org/string-data-structure/)
+* *Strings in C* -  [Learn from here](https://www.geeksforgeeks.org/strings-in-c-2/)
