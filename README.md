@@ -24,6 +24,11 @@
 * *EVEN ODD* -  [Practice here](https://www.hackerearth.com/problem/algorithm/even-odd-3-f509373c/submissions/) | [Solution here](https://www.hackerearth.com/submission/44823658/)
 * *Pattern Printing Problems and Solutions* -  [Practice here](https://www.programiz.com/c-programming/examples/pyramid-pattern) [Try it yourself then see the given code.]
 
+### **Functions**
+* *Functions in C/C++* -  [Learn from here](https://www.geeksforgeeks.org/functions-in-c/?ref=lbp)
+* *Default Arguments in C++* -  [Learn from here](https://www.geeksforgeeks.org/default-arguments-c/?ref=lbp)
+* *Return from void functions in C++* -  [Learn from here](https://www.geeksforgeeks.org/return-void-functions-c/?ref=lbp)
+
 
 
 * *To determine if a particular item exists in the list (Iterative & Recursive)* -  [Learn from here](https://www.geeksforgeeks.org/search-an-element-in-a-linked-list-iterative-and-recursive/)
